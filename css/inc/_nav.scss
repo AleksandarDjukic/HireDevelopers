@@ -1,0 +1,21 @@
+nav {
+    background-color: #4169e1;
+    width: 100%;
+    ul {
+        width: fit-content;
+        padding: 10px 20px;
+        margin: 0 auto;
+        li {
+            display: inline-block;
+            list-style: none;
+            a{
+                text-decoration: none;
+                margin: 0 10px;
+                color: #fff;
+            }
+            a:hover{
+                color: #bec8e9;
+            }
+        }
+    }
+}
